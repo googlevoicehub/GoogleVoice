@@ -9,3 +9,4 @@
 * [将您的电话号码关联到 Google Voice](https://github.com/googlevoicehub/GoogleVoice/issues/6)
 * [Google Voice 可以给中国用户发送短信拨打电话么](https://github.com/googlevoicehub/GoogleVoice/issues/7)
 * [Google Voice 如何保号](https://github.com/googlevoicehub/GoogleVoice/issues/9)
+* [Google Voice 解锁教程](https://github.com/googlevoicehub/GoogleVoice/issues/11)
