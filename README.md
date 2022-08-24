@@ -12,3 +12,4 @@
 * [Google Voice 如何保号](https://github.com/googlevoicehub/GoogleVoice/issues/9)
 * [Google Voice 解锁教程](https://github.com/googlevoicehub/GoogleVoice/issues/11)
 * [如何注册 Google Voice](https://github.com/googlevoicehub/GoogleVoice/issues/12)
+* [Google Voice 如何转移到非 Gmail 后缀的谷歌邮箱](https://github.com/googlevoicehub/GoogleVoice/issues/14)
