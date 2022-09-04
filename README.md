@@ -1,7 +1,7 @@
 # Google Voice 中文使用教程
 
 * [Google Voice 靓号选号页面](https://github.com/googlevoicehub/GoogleVoice/issues/8)
-* [6-7 位绝版 Gmail 邮箱靓号选号页面](https://github.com/googlevoicehub/GoogleVoice/issues/13)
+* [绝版 6-7 位纯数字 Gmail 邮箱靓号选号页面](https://github.com/googlevoicehub/GoogleVoice/issues/13)
 * [如何获取一个 Google Voice](https://github.com/googlevoicehub/GoogleVoice/issues/4)
 * [Google Voice 如何登陆](https://github.com/googlevoicehub/GoogleVoice/issues/10)
 * [Google Voice 如何转移到其他的 Gmail 账户中](https://github.com/googlevoicehub/GoogleVoice/issues/2)
