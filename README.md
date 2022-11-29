@@ -14,3 +14,4 @@
 * [如何注册 Google Voice](https://github.com/googlevoicehub/GoogleVoice/issues/12)
 * [Google Voice 如何转移到非 Gmail 后缀的谷歌邮箱](https://github.com/googlevoicehub/GoogleVoice/issues/14)
 * [Google Voice 永久号码教程](https://github.com/googlevoicehub/GoogleVoice/issues/16)
+* [Google Voice 如何注册电报](https://github.com/googlevoicehub/GoogleVoice/issues/17)
