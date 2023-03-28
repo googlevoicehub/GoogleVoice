@@ -19,3 +19,4 @@
 * [Google Voice 如何绑定微信实现换区](https://github.com/googlevoicehub/GoogleVoice/issues/19)
 * [如何购买一个美国手机号靓号](https://github.com/googlevoicehub/GoogleVoice/issues/20)
 * [如何更改 Google Voice 号码](https://github.com/googlevoicehub/GoogleVoice/issues/21)
+* [Google Voice 如何转移到美国实体卡](https://github.com/googlevoicehub/GoogleVoice/issues/22)
