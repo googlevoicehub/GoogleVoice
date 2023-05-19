@@ -21,3 +21,4 @@
 * [如何更改 Google Voice 号码](https://github.com/googlevoicehub/GoogleVoice/issues/21)
 * [Google Voice 如何转移到美国实体卡](https://github.com/googlevoicehub/GoogleVoice/issues/22)
 * [Google Voice 付费代注册](https://github.com/googlevoicehub/GoogleVoice/issues/23)
+* [抱歉，Google Voice 尚不支持您所在的国家/地区](https://telegra.ph/google-voice-is-not-available-05-19)
