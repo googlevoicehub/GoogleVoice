@@ -1,6 +1,6 @@
 # Google Voice 中文使用教程
 
-* [Google Voice 靓号选号页面](https://github.com/googlevoicehub/GoogleVoice/issues/8)
+* [Google Voice 靓号选号页面](https://telegra.ph/google-voice-nice-number-04-12)
 * [Gmail 邮箱靓号【绝版 6 - 7 位纯数字】](https://github.com/googlevoicehub/GoogleVoice/issues/13)
 * [如何获取一个 Google Voice](https://github.com/googlevoicehub/GoogleVoice/issues/4)
 * [Google Voice 如何登陆](https://github.com/googlevoicehub/GoogleVoice/issues/10)
